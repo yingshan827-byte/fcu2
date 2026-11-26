@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fcu-global-marketing-redesign.jamesyeh0627.chatgpt.site/sitemap.xml
